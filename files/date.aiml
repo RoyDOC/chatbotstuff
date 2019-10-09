@@ -232,4 +232,8 @@ DAYS</srai></template>
 <set var="days"><map name="predecessor"><get var="days"/></map></set></think> <loop/></li>
 </condition></template>
 </category>
+<category>
+    <pattern>What is your name </pattern>
+    <template>My name is FredÂ ð</template>
+</category>
 </aiml>
